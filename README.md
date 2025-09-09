@@ -26,11 +26,21 @@ Pada halaman HomePage terdapat ListView widget. Sumber data ListView diambil dar
 
 ## Langkah 6: Membuat ListView dan itemBuilder
 Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambil dari definisi model yang telah dibuat sebelumnya. Untuk menunjukkan batas data satu dan berikutnya digunakan widget Card. Kode yang telah umum pada bagian ini tidak ditampilkan. Gambaran kode yang dibutuhkan dapat anda lihat sebagai berikut.
+kode
+<img width="1670" height="2354" alt="image" src="https://github.com/user-attachments/assets/3421df30-5d25-4f3c-a3b9-8731d9e2f432" />
+hasil
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cf66f6a4-8958-4b86-be08-4db8fd150a70" />
 
 
-Langkah 7: Menambahkan aksi pada ListView
+## Langkah 7: Menambahkan aksi pada ListView
 Item pada ListView saat ini ketika ditekan masih belum memberikan aksi tertentu. Untuk menambahkan aksi pada ListView dapat digunakan widget InkWell atau GestureDetector. Perbedaan utamanya InkWell merupakan material widget yang memberikan efek ketika ditekan. Sedangkan GestureDetector bersifat umum dan bisa juga digunakan untuk gesture lain selain sentuhan. Pada praktikum ini akan digunakan widget InkWell.
 Untuk menambahkan sentuhan, letakkan cursor pada widget pembuka Card. Kemudian gunakan shortcut quick fix dari VSCode (Ctrl + . pada Windows atau Cmd + . pada MacOS). Sorot menu wrap with widget... Ubah nilai widget menjadi InkWell serta tambahkan named argument onTap yang berisi fungsi untuk berpindah ke halaman ItemPage. Ilustrasi potongan kode dapat anda lihat pada potongan berikut.
+kode
+<img width="1198" height="528" alt="image" src="https://github.com/user-attachments/assets/205de8f3-cdc8-4014-bfca-2a29ecdfb0a6" />
+hasil 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cd5c551c-58e6-49b3-901c-d5dfc748e54e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a08473cf-4f52-4064-8c50-c2e0b57c5101" />
+
 
 
 
