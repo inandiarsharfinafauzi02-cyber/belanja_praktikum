@@ -43,7 +43,10 @@ hasil dari kodingan sebelu dan sesudah ditap
 
 
 # 10. Tugas Praktikum 2
-Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator. Perbarui kode pada bagian Navigator menjadi seperti berikut.
+1. Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator. Perbarui kode pada bagian Navigator menjadi seperti berikut.
+<img width="1500" height="602" alt="image" src="https://github.com/user-attachments/assets/a9684f80-d625-4be0-a1dd-7cd7436ea2b2" />
+2.Pembacaan nilai yang dikirimkan pada halaman sebelumnya dapat dilakukan menggunakan ModalRoute. Tambahkan kode berikut pada blok fungsi build dalam halaman ItemPage. Setelah nilai didapatkan, anda dapat menggunakannya seperti penggunaan variabel pada umumnya
+<img width="1618" height="1050" alt="image" src="https://github.com/user-attachments/assets/2106519c-ed15-4464-ad73-5c6d389e6e9b" />
 
 
 
