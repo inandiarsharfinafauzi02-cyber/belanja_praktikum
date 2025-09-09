@@ -37,7 +37,7 @@ Item pada ListView saat ini ketika ditekan masih belum memberikan aksi tertentu.
 Untuk menambahkan sentuhan, letakkan cursor pada widget pembuka Card. Kemudian gunakan shortcut quick fix dari VSCode (Ctrl + . pada Windows atau Cmd + . pada MacOS). Sorot menu wrap with widget... Ubah nilai widget menjadi InkWell serta tambahkan named argument onTap yang berisi fungsi untuk berpindah ke halaman ItemPage. Ilustrasi potongan kode dapat anda lihat pada potongan berikut.
 kode
 <img width="1198" height="528" alt="image" src="https://github.com/user-attachments/assets/205de8f3-cdc8-4014-bfca-2a29ecdfb0a6" />
-hasil 
+hasil dari kodingan sebelu dan sesudah ditap
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cd5c551c-58e6-49b3-901c-d5dfc748e54e" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a08473cf-4f52-4064-8c50-c2e0b57c5101" />
 
