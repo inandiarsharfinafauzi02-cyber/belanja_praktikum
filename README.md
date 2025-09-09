@@ -42,5 +42,10 @@ hasil dari kodingan sebelu dan sesudah ditap
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a08473cf-4f52-4064-8c50-c2e0b57c5101" />
 
 
+# 10. Tugas Praktikum 2
+Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator. Perbarui kode pada bagian Navigator menjadi seperti berikut.
+
+
+
 
 
